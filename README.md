@@ -29,6 +29,7 @@
 7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
+UnZip src and public if downloaded 
 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
